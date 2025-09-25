@@ -1,5 +1,6 @@
 # 🎬 Recomendador de Filmes IMDB
 
+Alcides Antonio e Murilo Morosini
 Um sistema simples que recomenda filmes similares com base em avaliações, diretor, tags e descrição.  
 
 ## ✨ Funcionalidades
